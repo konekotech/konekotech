@@ -2,7 +2,7 @@ Hi! I'm `konekotech`, a university student from Japan.
 
 I'm interested in binary analysis, reverse engineering, and security research.
 
-My favorite programming languages are Java☕️, Go🐹, and Rust🦀
+Java☕️, Go🐹, and Rust🦀 are my favorite languages.
 
 <a href="https://github.com/
 konekotech/github-readme-stats">
