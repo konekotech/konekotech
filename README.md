@@ -11,5 +11,5 @@ konekotech/github-readme-stats">
 <img align="left" src="https://github-readme-stats-xi-virid-60.vercel.app/api?username=konekotech&count_private=true" />
 </a>
 <a href="https://github.com/konekotech/github-readme-stats">
-<img align="left" src="https://github-readme-stats-xi-virid-60.vercel.app/api/top-langs/?username=konekotech&layout=compact&count_private=true&hyde=jupyter%20notebook,shaderlab,tex,html" />
+<img align="left" src="https://github-readme-stats-xi-virid-60.vercel.app/api/top-langs/?username=konekotech&layout=compact&count_private=true&hide=jupyter%20notebook,shaderlab,tex,html&langs_count=9" />
 </a>
